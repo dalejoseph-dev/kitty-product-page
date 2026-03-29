@@ -1,0 +1,9 @@
+{
+  "lsp": {
+    "live-server": {
+      "initialization_options": {
+        "start_port": 5000
+      }
+    }
+  }
+}
