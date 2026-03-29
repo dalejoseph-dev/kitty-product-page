@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="results__ring-svg" width="70" height="70" viewBox="0 0 70 70" aria-hidden="true" data-gradient="linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)" data-circle-color="background-1" data-circle-custom="#ff0000">
+                      <defs>
+                        <linearGradient id="ring-grad-template--20870595674329__results_7Uc4j6-1" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1">
+                          <stop offset="0%" stop-color="#0AEAED"></stop>
+                          <stop offset="100%" stop-color="#FA0DFD"></stop>
+                        </linearGradient>
+                      </defs>
+
+                      
+                      <circle class="ring__prog" cx="35" cy="35" r="31" fill="none" stroke="rgb(var(--color-base-background-1))" stroke-width="7" stroke-linecap="unset" pathLength="100" transform="rotate(-90 35 35)" stroke-dasharray="92 100"></circle>
+                    </svg>
